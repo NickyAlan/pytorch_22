@@ -1,1 +1,5 @@
 datasets
+data
+PATH_TO_STORE_TESTSET
+PATH_TO_STORE_TRAINSET
+spectrum.ipynb
